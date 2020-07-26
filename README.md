@@ -23,6 +23,10 @@ You should be comfortable with the following skills:
 - [ ] [Inspect and Monitor Resources](skills/InspectMonitor.md)
 - [ ] [Quickly find resource fields descriptions](skills/FieldDescriptions.md)
 
+## Topics
+- [ ] [Multi-Container Pods](https://www.mirantis.com/blog/multi-container-pods-and-container-communication-in-kubernetes/)
+- [ ] State Persistence
+
 ## Resources
 
 Links to other websites I found useful while putting together these notes
