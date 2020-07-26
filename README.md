@@ -31,4 +31,5 @@ Links to other websites I found useful while putting together these notes
 )
 * [Linux Foundation Docs](https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad)
 * [Medium Article on Jumpstarting YAML](https://blog.heptio.com/using-kubectl-to-jumpstart-a-yaml-file-heptioprotip-6f5b8a63a3ea)
+* [Medium Article on kubectl explain](https://blog.heptio.com/kubectl-explain-heptioprotip-ee883992a243)
 * [kubectl Book](https://kubectl.docs.kubernetes.io/)

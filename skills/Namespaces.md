@@ -1,3 +1,5 @@
+# Namespaces
+
 CKAD Notes:
 * Where no explicit namespace is specified, the default namespace should be acted upon
 
