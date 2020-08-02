@@ -25,7 +25,7 @@ You should be comfortable with the following skills:
 
 ## Topics
 - [ ] [Multi-Container Pods](https://www.mirantis.com/blog/multi-container-pods-and-container-communication-in-kubernetes/)
-- [ ] State Persistence
+- [ ] [Stateful Applications](topics/stateful.md)
 
 ## Resources
 
