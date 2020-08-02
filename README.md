@@ -12,6 +12,8 @@ This exam curriculum includes these general domains and their weights on the exa
 * 13% – Services & Networking
 * 8% – State Persistence
 
+[More Exam Details](topics/ExamDetails.md)
+
 ## Skills
 
 Doing well on the CKAD exam is as much about having specific skills to demonstrate your knowledge quickly as it is about understanding Kubernetes concepts.  All of these skills need to be performed via `kubectl` as you won't have access to the Kubernetes Dashboard during the exam.
