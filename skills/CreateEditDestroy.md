@@ -25,6 +25,11 @@ kubectl create <resource_type> <name>
 
 If you have an existing resource, you can export its definition.
 ```
+# New Way
+# kubectl apply view-last-applied <resource_type> <resource_name> > <name>.yaml
+kubectl apply view-last-applied pod failing-pod > hello.yaml
+
+# Old Way
 kubectl get deployment <name> -o yaml --export > <name>.yaml
 # Note: it seem the --export flag is deprecated but may still work
 ```

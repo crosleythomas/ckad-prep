@@ -26,9 +26,14 @@ You should be comfortable with the following skills:
 - [ ] [Quickly find resource fields descriptions](skills/FieldDescriptions.md)
 
 ## Topics
+- [ ] [Core Concepts](topics/CoreConcepts.md)
 - [ ] [Multi-Container Pods](https://www.mirantis.com/blog/multi-container-pods-and-container-communication-in-kubernetes/)
 - [ ] [Stateful Applications](topics/stateful.md)
+- [ ] [Service Accounts](https://kubernetes.io/docs/reference/access-authn-authz/service-accounts-admin/)
 - [ ] [Security](topics/Security.md)
+- [ ] [Multi-Container Pods](topics/MultiContainer.md)
+- [ ] [Observability](topics/Observability.md)
+- [ ] [Pod Design](topics/PodDesign.md)
 
 ## Resources
 
