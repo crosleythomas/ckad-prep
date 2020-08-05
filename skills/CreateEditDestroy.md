@@ -36,6 +36,11 @@ kubectl get deployment <name> -o yaml --export > <name>.yaml
 
 ### Create Resources
 
+Create a temporary pod
+```
+kubectl run my-shell --rm -i --tty --image ubuntu -- bash
+```
+
 If you just want to create resources on the fly, use
 ```
 # For Pods
