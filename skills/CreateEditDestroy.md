@@ -64,6 +64,11 @@ kubectl apply -f <path_to_directory>/
 
 ```
 
+To create more of the same resource (i.e. scale!):
+```
+kubectl scale deployment <name> --replicas=<number>
+```
+
 ## Editing Resources
 
 **Option 1**
